@@ -17,28 +17,19 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    //1.
-    //2.2
-    //3.3
-    //2.2
+    
     //3
     //4
-    //5
-    //6
-    
-    
-    //7
-    
-    
-
-    //9
-    
-    
-    //10
-    //11
+    //2
+    //0.1
+    //0
+    //0,,,,,,
+    //oajioawe
 }
 
-
+- (void)ok {
+    
+}
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
